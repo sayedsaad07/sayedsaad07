@@ -1,66 +1,78 @@
-# Hi there! 👋 I'm Sayed Saad
+# 👋 Hi there! I'm Sayed Saad
 
 🚀 **Student | Senior Software Engineer | AI & Data Science Enthusiast**  
-💡 **Passionate about using technology & innovation to solve real-world problems**  
+💡 **Passionate about using technology & innovation to solve real-world problems**
 
 ---
 
-## 📌 About Me  
+## 📌 About Me
 
-I'm a **lifelong learner and technology enthusiast** who believes in the **power of practical innovation** to make a meaningful impact in our daily lives. My journey spans across various domains, from **healthcare technologies** to **AI-driven solutions** that transform industries.
-
-### 💼 **Professional Journey**  
-By day, I'm a **Senior Software Engineer** in **Healthcare Technologies**, working to ensure **physicians spend more quality time with their patients and loved ones**, rather than getting caught up in **hours of paperwork**. I focus on building solutions that help healthcare professionals **reduce administrative burdens** and **overcome insurance claim rejections**.
-
-Beyond my full-time role, I founded **MDZeyara**, a platform that helps **overseas patients** gain **a second opinion** from talented doctors across the globe. I also launched **CAMPFIT**, a **social fitness community** that fosters **connection through fitness challenges**, encouraging players to **stay fit and motivated together**.
-
-### 📊 **Passion for Data Science & AI**  
-Over the past **four years**, I have dedicated my time to mastering **AI & Data Science**, with the goal of becoming a **Full-Stack AI/ML Engineer**. At **Microsoft**, I leverage cutting-edge **AI & innovation** to build impactful solutions and stay at the forefront of technology.
+I'm a **lifelong learner and technology enthusiast** who believes in the **power of practical innovation** to make a meaningful impact. My journey spans across various domains, from **healthcare technologies** to **AI-driven solutions** that transform industries.
 
 ---
 
-## 🔥 **What I Love to Work On**
-- 🌍 **Building AI-powered applications** that enhance everyday life  
-- 🏥 **Healthcare tech** to help physicians and patients alike  
-- 🏋️‍♂️ **Social fitness platforms** to connect and motivate people  
-- 💡 **Data-driven problem-solving** for business & innovation  
-- 📊 **AI & ML research and development**  
+## 💼 Professional Experience
+
+### 🏢 **Microsoft** – *Senior Software Engineer*  
+**Dates**: Nov 2020 – Present  
+As part of Microsoft Health & Sciences, I work on **Dragon Copilot**, delivering high-quality clinical notes by listening to doctor-patient conversations.  
+My responsibilities include:  
+- Monitoring product **performance and quality**  
+- **Analyzing user data** to extract behavior patterns and identify outliers  
+- **Highlighting insights** to help drive product innovation  
+- Working with large-scale data to inform decisions and improve user experience
+
+### 🧠 **MDZeyara** – *Founder*  
+An online platform helping overseas patients get second opinions from doctors worldwide.
+
+### 🏋️ **CampFit** – *Founder & Developer*  
+A social fitness community that encourages teamwork and motivation through fitness challenges.
+
+### 💼 **Valeo** – *Software Engineer Intern*  
+Developed internal tools and automation solutions during a university internship.
 
 ---
 
-## 🚀 **Current Projects**
-🔹 **CAMPFIT** - A **social fitness community** fostering connections through **team-based fitness challenges**  
-🔹 **MDZeyara** - Helping **overseas patients** get **expert second opinions** from top doctors  
-🔹 **AI/ML Development** - Exploring **full-stack AI engineering** and building **innovative AI-powered solutions**  
+## 🎓 Education
+
+**Bachelor of Computer Engineering**  
+Canadian International College (CIC) – Egypt / Cape Breton University – Canada  
+📈 GPA: 3.76  
+Graduated: 2017
 
 ---
 
-## 📚 **Tech Stack & Skills**
-💻 **Languages & Frameworks**  
-🔹 Python, C#, TypeScript  
-🔹 .NET, Node.js, React, Angular  
-🔹 SQL, PostgreSQL, MongoDB  
+## 📊 Passion for AI & Data Science
 
-📊 **AI & Data Science**  
-🔹 Machine Learning, Deep Learning  
-🔹 Azure AI, OpenAI, Databricks  
-🔹 Power BI, Data Visualization  
-
-☁️ **Cloud & DevOps**  
-🔹 Microsoft Azure, Docker, Kubernetes  
-🔹 CI/CD, GitHub Actions  
-
-📱 **Mobile & Web Development**  
-🔹 Cross-platform apps (Flutter, React Native)  
-🔹 Backend APIs & Microservices  
+Over the past **4 years**, I’ve explored AI and Data Science to become a **Full-Stack AI/ML Engineer**. I enjoy building innovative AI tools, analyzing large datasets, and using insights to drive better decisions and experiences.
 
 ---
 
-## 📬 **Let's Connect!**
-📌 **LinkedIn**: [linkedin.com/in/sayedsaad](https://www.linkedin.com/in/sayedsaad)  
-📌 **GitHub**: [github.com/sayedsaad07](https://github.com/sayedsaad07)  
-📌 **Twitter/X**: [@yourhandle](https://twitter.com/sayedsaad07)  
+## 🛠️ Tech Stack
 
-💡 Always open to **collaborations**, **networking**, and **exciting AI & tech discussions**!  
+**Languages**: Python, C#, TypeScript  
+**Frameworks**: .NET, Node.js, React, Angular  
+**Data Tools**: Azure AI, OpenAI, Databricks, Power BI  
+**DevOps**: Docker, Kubernetes, Azure, GitHub Actions  
+**Databases**: PostgreSQL, SQL Server, MongoDB  
+**Mobile**: Flutter, React Native
 
 ---
+
+## 🚀 Projects
+
+- **Dragon Copilot (Microsoft)** – Clinical note automation via AI  
+- **CampFit** – Fitness challenges app with social collaboration  
+- **MDZeyara** – Second-opinion platform for healthcare
+
+---
+
+## 📬 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sayedsaad)  
+- 💻 [GitHub](https://github.com/sayedsaad07)  
+- 🐦 [Twitter/X](https://twitter.com/sayedsaad07)
+
+---
+
+✨ Always open to collaborations, networking, and exciting AI & tech discussions!
