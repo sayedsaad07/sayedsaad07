@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sayed Saad
+# 👋 Hi there! This is Sayed Saad
 
 🚀 **Student | Senior Software Engineer | AI & Data Science Enthusiast**  
 💡 **Passionate about using technology & innovation to solve real-world problems**
